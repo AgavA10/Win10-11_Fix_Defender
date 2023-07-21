@@ -1,6 +1,6 @@
 cd  /d  "%~dp0"
 
-
+@REM make mistake!!
 SetACL.exe -on "%systemdrive%\Program Files (x86)\Windows Defender" -ot file -actn setowner -ownr "n:S-1-5-32-544"
 SetACL.exe -on "%systemdrive%\Program Files (x86)\Windows Defender" -ot file -actn ace -ace  "n:S-1-5-32-544;p:full"
 
