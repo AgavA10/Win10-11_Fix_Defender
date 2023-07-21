@@ -16,5 +16,5 @@ to DELETE:
 ```
  in console/PowerShell:
 
-RUN Defender_DEL.bat
+RUN  Defender_DEL.bat
 ```
