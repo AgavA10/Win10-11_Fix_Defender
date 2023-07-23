@@ -7,12 +7,10 @@ Run as Administrator. The SetACL.exe file must be in the same folder as the bat-
 ```
 to turn OFF:
 ```
-
 RUN  Defender_OFF.bat
 (When using windows 11, restart and apply again.)
 ```
 to DELETE:
 ```
-
 RUN  Defender_DEL.bat
 ```
