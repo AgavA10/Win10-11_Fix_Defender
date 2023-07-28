@@ -15,4 +15,4 @@ to DELETE:
 RUN  Defender_DEL.bat
 ```
 You can check the Windows Defender status by running the utility  dControl.exe
-!(Status.ipg)
+/Status.ipg
