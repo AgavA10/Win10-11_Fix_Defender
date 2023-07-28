@@ -15,6 +15,6 @@ to DELETE:
 RUN  Defender_DEL.bat
 ```
 You can check the Windows Defender status by running the utility  dControl.exe
-
+![DefStatus](Status.png)
 ![DefStatus](https://github.com/AgavA10/Win10-11_Fix_Defender.git/Main/Status.png)
 
